@@ -1,9 +1,10 @@
-- 👋 Hello there. I’m trillwin
+- 👋  Oh! Hi there. I’m trillwin.
+Gender: ♂️ Male (he/him).
+Zodiac: ♈ Aries.
 - 👀 I’m interested in: MIDI art, Malware, Modding, and More that comes to mind 
 - 🌱 I’m currently learning: C/C#/C++, Python, Lua, HTML/CSS/JS and Java
 - 💞️ I’m looking to collaborate on: idk
 - 📫 How to reach me: can't
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Binary Waterfall is a virus
 
 <!---
