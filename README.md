@@ -7,7 +7,7 @@ Favorite Animal: 😸 Cat.
 - 🌱 I’m currently learning: C/C#/C++, Python, Lua, HTML/CSS/JS and Java
 - 💞️ I’m looking to collaborate on: idk
 - 📫 How to reach me: can't
-- ⚡ Fun fact: Binary Waterfall is a virus
+- ⚡ Fun fact: this is a fun fact
 
 <!---
 trillwin/trillwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
